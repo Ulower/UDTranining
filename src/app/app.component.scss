@@ -1,0 +1,73 @@
+  .container {
+    margin: 0px;
+  }
+  .head {
+    
+  } 
+  .body {
+
+  }
+
+
+  .title {
+    font-size: 18px;
+    margin: 0;
+  }
+  kendo-badge-container {
+    margin-right: 8px;
+
+  }
+  .body_section_one {
+    width: 30%;
+    margin: 0px;
+  }
+  .body_section_two {
+    margin: 0px;
+  }
+  kendo-appbar {
+    background-color: black;
+    height: 7%;
+    color: white;
+  }
+  ul {
+    font-size: 14px;
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+  }
+  li {
+    margin: 0 9px;
+  }
+  li:hover {
+    cursor: pointer;
+    color: #d6002f;
+  }
+  .actions .k-button {
+    padding: 0;
+  }
+
+
+  .grid-layout-container {
+    overflow-x: auto;
+  }
+
+  .k-grid-layout {
+    width: 870px;
+    margin: auto;
+  }
+
+  .k-chip-list {
+    padding: 5px 0px;
+    grid-gap: 6px;
+    margin-top: 8px;
+  }
+
+  .k-chip {
+    margin: 0px;
+    border-radius: 2px;
+  }
+
+  .event-calendar {
+    width: 100%;
+  }

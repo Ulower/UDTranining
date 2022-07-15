@@ -1,0 +1,38 @@
+.k-grid-layout {
+    width: 870px;
+    margin: auto;
+  }
+
+  .article {
+    gap: 16px;
+    color: #656565;
+  }
+
+  .article-description {
+    gap: 6px;
+  }
+
+  .article-description .date,
+  .card-article-description .date {
+    font-size: 10px;
+    line-height: 20px;
+  }
+
+  .article-description .separator,
+  .card-article-description .separator {
+    padding: 0 5px;
+  }
+
+  .article-position {
+    font-size: 32px;
+  }
+
+  .article-description .title {
+    font-size: 14px;
+    line-height: 20px;
+  }
+
+  .article-description .author {
+    font-size: 12px;
+    line-height: 20px;
+  }
